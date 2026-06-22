@@ -6,6 +6,10 @@ Course: Interactive Narratives
 
 ---
 
+Play it now on this link: https://bialachado.github.io/thesmellofsunday/
+
+---
+
 ## Project Overview
 
 The Smell of Sunday is an interactive narrative experience developed for the Interactive Narratives course of the Master in Multimedia at FEUP.
